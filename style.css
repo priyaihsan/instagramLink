@@ -1,24 +1,29 @@
 body{
     text-align: center;
-    background-color: #0f1923;
+    background-image: url(https://wallpapercave.com/wp/wp4798184.jpg);
+    background-size: 100%;
+    margin-top: 500px;
 }
 
-.nama{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.bagian-profile p{
+    font-family: 'Roboto', sans-serif;
     color: white;
+    font-size: 35px;
 }
 
+.bagian-profile{
+    margin-bottom: 70px;
+}
 
-.coba{
-    background-color: #0f1923;
-    height: 23%;
-    width: 100%;
+.coba a{
+    text-decoration: none;
+    color: #0f1923;
 }
 
 .btn{
     background-color: #ff4655;
     padding: 10px;
-    width: 50%;
+    width: 70%;
     height: 80px;
     font-size: 2rem;
     font-weight: bold;

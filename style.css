@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.bagian-profile{
+    text-align: center;
+}
+
+.bagian-link{
+    display: flex;
+    justify-content: center;
+}
+
+.nama-icon{
+    font-family: monospace;
+    font-weight: bold;
+    text-decoration: none;
+
+}

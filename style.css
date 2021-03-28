@@ -2,7 +2,7 @@ body{
     text-align: center;
     background-image: url(https://wallpapercave.com/wp/wp4798184.jpg);
     background-size: 100%;
-    margin-top: 500px;
+    margin-top: 400px;
 }
 
 .bagian-profile p{
@@ -20,12 +20,23 @@ body{
     color: #0f1923;
 }
 
+.coba{
+    margin-top:35px;
+}
+
 .btn{
     background-color: #ff4655;
     padding: 10px;
     width: 70%;
-    height: 80px;
+    height: 120px;
     font-size: 2rem;
     font-weight: bold;
     border: none;
+}
+
+.copy-right p{
+    color: rgb(214, 214, 214);
+    font-family:'Roboto', sans-serif;
+    font-size: medium;
+    margin-top: 150px;
 }

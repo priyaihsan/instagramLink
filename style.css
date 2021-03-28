@@ -1,3 +1,4 @@
+/* android */
 body{
     text-align: center;
     background-image: url(https://wallpapercave.com/wp/wp4798184.jpg);
@@ -41,6 +42,7 @@ body{
     margin-top: 150px;
 }
 
+/* ipad */
 @media(min-device-width: 481px) and (max-device-width:1024px){
 
     body{
@@ -62,6 +64,7 @@ body{
     
 }
 
+/* destop */
 @media(min-width:1025px){
 
     body{

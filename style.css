@@ -80,6 +80,15 @@ body{
         border: none;
     }
     
+    .btn1{
+        background-color: #0f1923;
+        padding: 10px;
+        width: 70%;
+        height: 100px;
+        font-size: 2rem;
+        font-weight: bold;
+        border: none;
+    }
 }
 
 /* destop */
@@ -94,6 +103,16 @@ body{
     
     .btn{
         background-color: #ff4655;
+        padding: 10px;
+        width: 70%;
+        height: 120px;
+        font-size: 2rem;
+        font-weight: bold;
+        border: none;
+    }
+
+    .btn1{
+        background-color: #0f1923;
         padding: 10px;
         width: 70%;
         height: 120px;

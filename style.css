@@ -20,13 +20,31 @@ body{
     text-decoration: none;
     color: #0f1923;
 }
+.coba1 a{
+    text-decoration: none;
+    color: #ff4655;
+}
 
 .coba{
     margin-top:35px;
 }
 
+.coba1{
+    margin-top:35px;
+}
+
 .btn{
     background-color: #ff4655;
+    padding: 10px;
+    width: 70%;
+    height: 120px;
+    font-size: 2rem;
+    font-weight: bold;
+    border: none;
+}
+
+.btn1{
+    background-color: #0f1923;
     padding: 10px;
     width: 70%;
     height: 120px;

@@ -2,7 +2,7 @@
 body {
 	text-align: center;
 	background-image: url('https://i.pinimg.com/originals/fe/93/db/fe93dbc430eb4cc8d98c6c5bf17dd45f.png');
-	background-size: cover;
+	background-size: auto;
 	background-position-x: center;
 	background-repeat: no-repeat;
 	margin-top: 350px;
